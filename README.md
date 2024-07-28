@@ -1,6 +1,6 @@
 Compiled by sunnysideupp1
 
-Population Source: Pop-stat
+Population Source: Pop-stat (2019)
 
 [Location of Data](http://pop-stat.mashke.org/belarus-census-2019/total.htm)
 
