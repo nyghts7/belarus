@@ -1,4 +1,4 @@
-Compiled by nyghts
+Compiled by sunnysideupp1
 
 Population Source: Pop-stat
 
@@ -11,17 +11,20 @@ Population Source: Pop-stat
 Coordinate Data is from [OpenStreetMap](https://www.openstreetmap.org/copyright) via [overpass-turbo.eu](https://github.com/tyrasd/overpass-turbo)
 
 Stats:
-+ 1,398 settlements
-+ 5,269,703 total population
-+ 5 cities with more than 100,000 people
-+ 81 cities with more than 10,000 people
-+ 530 cities with more than 1,000 people
-+ The number of cities in each region is broken down thusly:
-     - Hovedstaden — 246 cities
-     - Midtjylland — 284 cities
-     - Nordjylland — 107 cities
-     - Sjælland — 395 cities
-     - Syddanmark — 277 cities
++ 20,949 settlements
++ 9,413,446 total population
++ 14 cities with more than 100,000 people
++ 91 cities with more than 10,000 people
++ 458 cities with more than 1,000 people
++ 7,384 cities with less than 10 people
++ The number of cities in each oblast is broken down thusly:
+     - Brest — 2107 cities
+     - Gomel — 2135 cities
+     - Gorod Minsk — 1 city
+     - Grodno — 3931 cities
+     - Minsk — 4939 cities
+     - Mogilev — 2666 cities
+     - Vitebsk — 5170 cities
  
 Image of Data:
 
